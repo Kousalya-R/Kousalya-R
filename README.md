@@ -1,4 +1,3 @@
-👋 Hello Recruiters! 
 - 🔭 I'm a tech-savvy Data Science enthusiast with a passion for turning data into meaningful insights! 
 - 🌱📊 With a B.Tech in IT and a PGP in Data Science and Engineering, I bring 2 years of valuable experience in Excel, data analytics, proficient in Python, Power BI, Tableau and Machine Learning 🚀. 
 - 👯 As a MERN Stack developer 🌐, I love building web applications too! 🖥️ 
